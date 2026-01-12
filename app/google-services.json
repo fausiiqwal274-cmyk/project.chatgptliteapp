@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578736113684",
+    "project_id": "chatgptlite-85fe1",
+    "storage_bucket": "chatgptlite-85fe1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578736113684:android:db5da224fcee833293ff01",
+        "android_client_info": {
+          "package_name": "com.example.chatgptliteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578736113684-7k4rkim88jehj1e24dlcbgt2hrnoac7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatgptliteapp",
+            "certificate_hash": "fdcd3ac8fd3ff5be5c067e6bedac906555c39728"
+          }
+        },
+        {
+          "client_id": "578736113684-of8c607afchdevu1vs6nbcjp5qmdgbve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOKlyb6DA4u-3E2p76H8Fg86AAyzzVPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578736113684-of8c607afchdevu1vs6nbcjp5qmdgbve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578736113684-51hgtak2e71aiejq23l8fhjd5sf88j20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatgptliteapp",
+                "app_store_id": "17082001"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

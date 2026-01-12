@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chatgptliteapp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#F6EDED</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Chatgptliteapp" parent="Base.Theme.Chatgptliteapp" />
+</resources>
